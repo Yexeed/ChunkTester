@@ -1,0 +1,7 @@
+name: ChunkTester
+api: "1.0.0"
+main: com.yexeed.chunktest.ChunkTester
+version: "1.0"
+commands:
+  chunkload:
+    description: chunks load testing
